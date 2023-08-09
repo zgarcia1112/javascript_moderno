@@ -14,3 +14,9 @@ const producto = {
 };
 
 console.log(producto);
+
+/* 
+diferencia entre un arreglo y un objeto
+En resumen, la diferencia principal entre un array y un objeto en JavaScript es que un array es una colección ordenada de valores a los que se accede mediante un índice numérico, mientras que un objeto es una colección no ordenada de pares de clave-valor a los que se accede mediante el nombre de la propiedad. Ambos tipos de datos son muy útiles en diferentes situaciones y es importante conocer sus diferencias para poder elegir el tipo de dato adecuado para cada tarea.
+****
+*/
