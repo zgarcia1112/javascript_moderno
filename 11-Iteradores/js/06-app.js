@@ -39,7 +39,7 @@ carrito.forEach((producto) =>
   console.log(` ${producto.nombre} : ${producto.precio}`)
 );
 
-// map crear un arreglo nuevo
+// map crea un arreglo nuevo
 const nuevoArreglo = carrito.map(
   (producto) => ` ${producto.nombre} ${producto.precio}`
 );
