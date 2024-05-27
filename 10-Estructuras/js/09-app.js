@@ -1,6 +1,6 @@
 //operador ternario
 // partes de un operador ternario
-// condicion ? true: si se cumple has esto : false: no se cumple has esto.
+// condicion ? true: si se cumple has esto ":" false: no se cumple has esto.
 //en la condicion podemos agregar or y and si se requiriera
 
 const autenticado = true;

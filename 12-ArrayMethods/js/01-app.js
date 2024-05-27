@@ -28,7 +28,7 @@ console.log(resultado);
 const existe = carrito.some((producto) => producto.nombre === "Celular");
 console.log(existe);
 
-///////////////////////////////////// En un arreglo tradicional con .some
+///////////////////////////////////// En un arreglo tradicional con .some/******************************************************************************/
 
 const existe2 = meses.some((mes) => mes === "Febrero");
 console.log(`${existe2} tradicional`);

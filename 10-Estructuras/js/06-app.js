@@ -1,4 +1,4 @@
-// operadir and &&
+/**************************************operadir and &&***************************************/
 
 let usuario = false;
 const puedePagar = false;
